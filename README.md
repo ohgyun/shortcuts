@@ -25,7 +25,7 @@ Shorcuts
 - Alt + Tab: Switch applications using ['Witch'](http://manytricks.com/witch/)
 
 
-# iTerm
+## iTerm
 
 - z: Jump to recent directory, using ['z'](https://github.com/rupa/z)
 - m: Move to 'mywork' directory (alias)
