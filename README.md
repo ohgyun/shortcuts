@@ -14,7 +14,7 @@ Shorcuts
 - Command + Shift + [ or ]: Focus to left or right tab
 - Command + L: Focus to address
   - Space + B: Find bookmarks using ['Quickmark'](https://chrome.google.com/webstore/detail/quickmarks/piefpokhpcehbeelhohgcnbipnfkogig?hl=en)
-- f,j,k,d,u,gg,G: Navigate ['vimium'](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en)
+- f,j,k,d,u,gg,G: Navigate using ['vimium'](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en)
 
 
 ## Mac
