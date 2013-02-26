@@ -1,4 +1,4 @@
-Shorcuts
+Shortcuts
 ========
 
 ## Sublime Text
